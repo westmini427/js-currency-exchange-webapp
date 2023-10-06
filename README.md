@@ -1,2 +1,2 @@
-### 💸 js-exchange-webapp 💸
+### 💸 js-currency-exchange-webapp 💸
 
